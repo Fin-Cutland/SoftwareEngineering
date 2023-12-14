@@ -25,7 +25,7 @@ int main()
 
 
     // TASK (b) - pointers
-
+    //
     // Create a pointer type
     int* p1;
 

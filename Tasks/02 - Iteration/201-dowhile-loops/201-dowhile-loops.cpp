@@ -2,7 +2,7 @@
 
 int main()
 {
-    int i = 0;
+    int i = 6;
 
     printf("Start while loop\n");
 
